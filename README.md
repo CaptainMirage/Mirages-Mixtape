@@ -54,7 +54,7 @@ Mirage's Mixtape stands as a versatile tool, catering to users who seek a conven
 
 #### Installation
 
-- for now.. never gonna give you up
+- for now.. just party and enjoy the text up there
 
 #### API Reference
 
