@@ -57,7 +57,7 @@ Mirage's Mixtape stands as a versatile tool, catering to users who seek a conven
 #### API Reference
 
 ```html
-    <p>dummy code for cool fans</p>
+    <p>dummy code for cool fans, also there isn't gonna be any API probably</p>
 ```
 
 [Back To The Top](#mirages-mixtape)
