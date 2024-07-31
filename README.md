@@ -48,6 +48,12 @@ this program can also be used as an API since every part of the code has its own
 - your done! 
 
 
+#### Updates
+
+- if you ever encounter an error, try updating the packages by doing the steps above or if its just an error with the download try running the file `yt-dlp installer.psh` as admin (the admin is to make sure the library installs correctly)
+- if you still incounter errors try redownloading the latest version of the program, it might have just been a change in the way the library is used!
+
+
 #### API Reference
 
 ```html
