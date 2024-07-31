@@ -25,8 +25,12 @@ PS : its definitely not for downloading videos for yourself its for archiving th
 ### 1. yt-dlp Integration
 Mirage's Mixtape interacts seamlessly with the yt-dlp. and soon it will be able to download private videos with some wizard stuff!
 
-### 2. User Interaction and Configuration
+### 2. Simple User Interaction and Configuration
 Mirage's Mixtape operates interactively, prompting users for inputs so the user itself wont ever need to change anything in the source code
+
+### 3. Beautiful GUI and TUI
+i tried my best to make the TUI as beautiful and simple as possible with text only, the GUI is still a work in progress but here is a picture of the early version of it
+![EV png](https://github.com/user-attachments/assets/f69c7f45-2c7d-4cd9-928b-ff1f2b8f743b)
 
 ### 3. can be used as an API
 this program can also be used as an API since every part of the code has its own function that can be called outside of the code
@@ -43,7 +47,7 @@ this program can also be used as an API since every part of the code has its own
 #### API Reference
 
 ```html
-    <p>dummy code for cool fans, also there isn't gonna be any API probably</p>
+    <p>im too lazy atm for making an API</p>
 ```
 
 [Back To The Top](#mirages-mixtape)
