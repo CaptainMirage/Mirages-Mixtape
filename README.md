@@ -41,7 +41,11 @@ this program can also be used as an API since every part of the code has its own
 ## How To Use
 #### Installation
 
-- no installation needed, it just works out of the box
+(if you dont have python installed i have put a link in references to download)
+- first make sure you have the Dependencies, either :
+  - run the script named `dependencies installer.py` (not recommended)
+  - or run `pip install requirements.txt` in the terminal within that folder (recommended)
+- your done! 
 
 
 #### API Reference
