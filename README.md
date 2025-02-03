@@ -78,7 +78,7 @@ this program can also be used as an API since every part of the code has its own
 
 ## License
 
-This project is under the GNU General Public License v3.0. See the [LICENSE](https://github.com/CaptainMirage/mirages-mixtape/blob/main/LICENSE) file for the full license text. (does it even matter?)
+This project is under the Mozilla Public License 2.0. See the [LICENSE](https://github.com/CaptainMirage/mirages-mixtape/blob/main/LICENSE) file for the full license text.
 
 [Back To The Top](#mirages-mixtape)
 
