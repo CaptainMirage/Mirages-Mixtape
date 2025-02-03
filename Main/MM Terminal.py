@@ -30,6 +30,7 @@ def Get_ydl_opts(ydl_download_dir):
         'verbose': DEBUG_MODE,
         'ffmpeg_location': "./Mirage's Mixtape/ffmpeg-7.0.1-full_build/bin/ffmpeg.exe",
         'format': format_choice,
+        #TODO - add a cookie for the whole thing
     }
 
 
