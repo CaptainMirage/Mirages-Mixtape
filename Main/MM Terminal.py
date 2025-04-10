@@ -10,7 +10,7 @@ TestDrive3 = 'https://www.youtube.com/playlist?list=PLOOt-rtlXnMIFWHR6T0FB6-ztOe
 
     # SECTION - config
 DEBUG_MODE = True
-VERSION = '1.2.5'
+VERSION = '1.3.5'
 FFMPEG_location = None
 linkTypeFlag: bool = None
 Quality: str = None
